@@ -19,6 +19,7 @@ The unzipped folder will have the following files.
 1. Added New features such as who wins at most, win percent when Team 1 played with Team 2 and Team 1 got 1st Innings, etc.
 2. Used CatboostClassifier for final modeling.
 3. Ensembled with LGBMClassifier.
+4. Considered Multi class as Binary classification as in the end it is between two teams itself
 #### Tools used
 1. Python for programming
 2. sklearn and numpy libraries for methodology
